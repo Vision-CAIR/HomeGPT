@@ -23,4 +23,12 @@ open HomeGPT combines the power of Large Language Models (LLM) with Retrieval-Au
 - **LLM**: Processes natural language data to understand and generate human-like text.
 - **RAG**: Enhances the model's responses by retrieving relevant information from a large database of home inspection terminologies and prior reports.
 
+## Pipeline structure
 ![Alt text](architecture].drawio.png?raw=true "Title")
+
+## Content
+
+1. CBHI Home Inspection Report.pdf contains a sample inspection pdf.
+2. ExtractDatafromHomeReportPDF.ipynb contains code for generating the HomeGPT inspection report.
+3. HomeGPT_vision_module.ipynb contains future potential involving image understanding. 
+
