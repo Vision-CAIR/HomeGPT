@@ -1,6 +1,6 @@
-# open HomeGPT
+# HomeGPT
 
-Welcome to open HomeGPT, an innovative project designed to help homeowners, buyers, and real estate professionals understand complex home inspection reports using cutting-edge technology. By leveraging Language Models (LLM) and Retrieval-Augmented Generation (RAG), open HomeGPT interprets technical jargon and presents it in an easy-to-understand format.
+Welcome to HomeGPT, an innovative project designed to help homeowners, buyers, and real estate professionals understand complex home inspection reports using cutting-edge technology. By leveraging Language Models (LLM) and Retrieval-Augmented Generation (RAG), HomeGPT interprets technical jargon and presents it in an easy-to-understand format.
 
 ## Overview
 
