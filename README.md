@@ -22,3 +22,5 @@ Complext home report data
 open HomeGPT combines the power of Large Language Models (LLM) with Retrieval-Augmented Generation (RAG) to provide accurate and contextually relevant information:
 - **LLM**: Processes natural language data to understand and generate human-like text.
 - **RAG**: Enhances the model's responses by retrieving relevant information from a large database of home inspection terminologies and prior reports.
+
+![Alt text](architecture].drawio.png?raw=true "Title")
